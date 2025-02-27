@@ -1,0 +1,30 @@
+body {
+     background-color: darkorange;
+    color: white;
+}
+summary:hover {
+    background-color: darkorange;
+}
+.ticket-header {
+    background: darkred;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    border-radius: 8px;
+}    
+.ticket-section {
+    background: darkred;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.ticket-image img {
+    width: 20%;
+    display: block;
+    margin: auto;
+}
+.footer {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+}
